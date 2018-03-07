@@ -1,0 +1,33 @@
+.ReactModal__Content {
+
+  @media (max-width: 576px) {
+    width: 90%;
+  }
+
+  &.ReactModal__Content--after-open {
+    top: 50% !important;
+  }
+  .modal-head {
+    .modal-title {
+      width: calc(100% - 20px);
+      float: left;
+    }
+
+    &::after {
+      display: block;
+      content: "";
+      clear: both;
+    }
+  }
+
+  .modal-body {
+
+      .modal-buttons {
+        margin-top: 20px;
+
+        button {
+          margin-right: 10px;
+        }
+      }
+  }
+}

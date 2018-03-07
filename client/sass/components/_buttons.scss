@@ -1,0 +1,36 @@
+.btn {
+
+  &:hover {
+    box-shadow: inset 0px 0px 20px rgba(0,0,0,.2);
+  }
+
+  &.btn-primary {
+    background: #82d07c;
+    border-color: #82d07c;
+
+    &:hover {
+      background: darken(#82d07c, 10%);
+      border-color: darken(#82d07c, 10%);
+    }
+  }
+
+  &.btn-outline-primary {
+    border-color: #82d07c;
+    color: #82d07c;
+    &:hover {
+      background: darken(#82d07c, 10%);
+      border-color: darken(#82d07c, 10%);
+      color: #fff;
+    }
+  }
+
+  &.btn-link {
+    color: #64b9d2;
+
+    &:hover {
+      color: darken(#64b9d2, 10%);
+      box-shadow: none;
+    }
+  }
+
+}

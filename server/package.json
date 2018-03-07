@@ -1,0 +1,35 @@
+{
+  "name": "entiendo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "watch-build": "rimraf dist/ && babel ./src --out-dir dist/ --watch --source-maps --copy-files",
+    "build": "rimraf dist/ && babel ./src --out-dir dist/ --source-maps --copy-files",
+    "start": "PORT=3000 nodemon ./dist/app.js"
+  },
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "body-parser": "~1.18.2",
+    "connect-mongo": "^2.0.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "express-session": "^1.15.6",
+    "mongoose": "^5.0.3",
+    "mongoose-simple-random": "^0.4.1",
+    "morgan": "~1.9.0",
+    "node-sass-chokidar": "0.0.3",
+    "npm-run-all": "^4.1.2",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.2.2",
+    "serve-favicon": "~2.4.5"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "rimraf": "^2.6.2",
+    "webpack": "^3.10.0"
+  }
+}

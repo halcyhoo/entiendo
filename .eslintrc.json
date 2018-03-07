@@ -1,0 +1,30 @@
+{
+    "plugins": [
+        "react"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "parser": "babel-eslint",
+    "env": {
+        "es6":     true,
+        "browser": true,
+        "node":    true
+    },
+    "extends": [
+        "eslint:recommended",
+        "plugin:react/recommended"
+    ],
+    "rules": {
+      "strict": [ 2, "safe" ],
+      "no-trailing-spaces": 2,
+      "quotes": [ 2, "double" ],
+      "no-eval": 2,
+      "no-unused-vars": 2,
+      "no-extra-semi": 1
+    }
+}

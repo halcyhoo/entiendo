@@ -1,0 +1,2832 @@
+[{
+    "es": [
+    "Hola"
+  ],
+  "en": [
+    "Hi",
+    "Hello"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Tengo un perro",
+    "Yo tengo un perro",
+    "Tengo un perra",
+    "Yo tengo un perra"
+  ],
+  "en": [
+    "I have a dog"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Yo tengo un gris elefante"
+  ],
+  "en": [
+    "I have a grey elephant",
+    "I have a gray elephant"
+  ],
+  "difficulty": 2
+},
+{
+    "es": [
+    "Las niñas"
+  ],
+  "en": [
+    "The kids",
+    "The children",
+    "The girls"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Ella es un niña"
+  ],
+  "en": [
+    "She is a kid",
+    "She is a child",
+    "She is a girl"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Ello es un niño"
+  ],
+  "en": [
+    "He is a kid",
+    "He is a child",
+    "He is a boy"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Ellos son niños",
+    "Ellas son niñas"
+  ],
+  "en": [
+    "They are kids",
+    "They are children"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "La mujer y el hombre"
+  ],
+  "en": [
+    "The woman and the man"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Los niños"
+  ],
+  "en": [
+    "The kids",
+    "The boys",
+    "The children"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Él come un manzana"
+  ],
+  "en": [
+    "He eats an apple"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Ella come pan"
+  ],
+  "en": [
+    "She eats bread"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Ella es una niña"
+  ],
+  "en": [
+    "She is a girl"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Él es un niño"
+  ],
+  "en": [
+    "He is a boy"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Yo como pan y manzanas",
+    "Como pan y manzanas"
+  ],
+  "en": [
+    "I eat bread and apples"
+  ],
+  "difficulty": 2
+},
+{
+    "es": [
+    "Él bebe leche"
+  ],
+  "en": [
+    "He drinks milk"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Ella bebe agua"
+  ],
+  "en": [
+    "She drinks water"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Bebo agua"
+  ],
+  "en": [
+    "I drink water"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Como pan"
+  ],
+  "en": [
+    "I eat bread"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Buenas noches"
+  ],
+  "en": [
+    "Goodnight",
+    "Good night"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Adiós"
+  ],
+  "en": [
+    "Bye",
+    "Good bye"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Gracias"
+  ],
+  "en": [
+    "Thanks",
+    "Thank you"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Si, gracias"
+  ],
+  "en": [
+    "Yes, thanks",
+    "Yes, thank you"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Por favor"
+  ],
+  "en": [
+    "Please"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Perdón"
+  ],
+  "en": [
+    "Sorry",
+    "Excuse me"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Hablo inglés"
+  ],
+  "en": [
+    "I speak English"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "¿Habla Inglés?"
+  ],
+  "en": [
+    "Do you speak English?"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "¿Habla Español?"
+  ],
+  "en": [
+    "Do you speak Spanish?"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "No, no hablo Español"
+  ],
+  "en": [
+    "No I don't speak Spanish",
+    "No I do not speak Spanish"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "No, no hablo Inglés"
+  ],
+  "en": [
+    "No I don't speak English",
+    "No I do not speak English"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Disculpe"
+  ],
+  "en": [
+    "Sorry",
+    "Excuse me"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Nosotros comemos pan",
+    "Comemos pan"
+  ],
+  "en": [
+    "We eat bread"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Nosotros somos niños",
+    "somos niños"
+  ],
+  "en": [
+    "We are kids",
+    "We are boys",
+    "We are children"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Nosotros bebemos agua",
+    "Bebemos agua"
+  ],
+  "en": [
+    "We drink water"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Yo leo libros",
+    "Leo libros"
+  ],
+  "en": [
+    "I read books"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Ellos leen libros",
+    "Ellas leen libros"
+  ],
+  "en": [
+    "They read books"
+  ],
+  "difficulty": 2
+},
+{
+    "es": [
+    "Él escribe una carta"
+  ],
+  "en": [
+    "He writes a letter"
+  ],
+  "difficulty": 2
+},
+{
+    "es": [
+    "Yo leo la carta",
+    "Leo la carta"
+  ],
+  "en": [
+    "I read the letter"
+  ],
+  "difficulty": 2
+},
+{
+    "es": [
+    "Una persona escribe la carta"
+  ],
+  "en": [
+    "A person writes the letter"
+  ],
+  "difficulty": 2
+},
+{
+    "es": [
+    "Una persona escribe la carta"
+  ],
+  "en": [
+    "A person writes the letter"
+  ],
+  "difficulty": 2
+},
+{
+    "es": [
+    "Lees la carta"
+  ],
+  "en": [
+    "Read the letter",
+    "You read the letter"
+  ],
+  "difficulty": 2
+},
+{
+    "es": [
+    "Lees la carta"
+  ],
+  "en": [
+    "Read the letter",
+    "You read the letter"
+  ],
+  "difficulty": 2
+},
+{
+    "es": [
+    "Si, hablo Español",
+    "Si, yo hablo Español"
+  ],
+  "en": [
+    "Yes I speak Spanish"
+  ],
+  "difficulty": 1
+},
+{
+    "es": [
+    "Somos altos y fuertes."
+  ],
+  "en": [
+    "We are tall and strong"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Ella es capaz"
+  ],
+  "en": [
+    "She is capable"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Mis hermanas son distintas"
+  ],
+  "en": [
+    "My sisters are different"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Es un dormitorio seguro"
+  ],
+  "en": [
+    "It is a safe room",
+    "It is a safe dormitory"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Los colores principales"
+  ],
+  "en": [
+    "The main colors"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Él es mi único hermano."
+  ],
+  "en": [
+    "He is my only brother."
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Yo veo la televisión local",
+    "Veo la televisión local"
+  ],
+  "en": [
+    "I watch the local television",
+    "I watch the local TV",
+    "I watch local television",
+    "I watch local TV"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Es un caballo fuerte"
+  ],
+  "en": [
+    "It is a strong horse"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Los actores principales"
+  ],
+  "en": [
+    "The main actors"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "La cocina no es segura"
+  ],
+  "en": [
+    "The kitchen is not safe"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Ella es tu única hermana"
+  ],
+  "en": [
+    "She is your only sister"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Yo escribo mis propias cartas"
+  ],
+  "en": [
+    "I write my own letters"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "No somos actores profesionales"
+  ],
+  "en": [
+    "We are not professional actors"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "No tengo suficiente dinero"
+  ],
+  "en": [
+    "I don't have enough money",
+    "I do not have enough money"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Sí es simple"
+  ],
+  "en": [
+    "Yes it is simple"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "¿Mi propio hijo?"
+  ],
+  "en": [
+    "My own son"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "¿Qué es imposible?"
+  ],
+  "en": [
+    "What is impossible?"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Las siguientes semanas"
+  ],
+  "en": [
+    "The following weeks",
+    "The next weeks"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Un espejo es suficiente"
+  ],
+  "en": [
+    "A mirror is enough",
+    "A mirror is sufficient",
+    "One mirror is enough",
+    "One mirror is sufficient"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Yo tengo suficiente ropa"
+  ],
+  "en": [
+    "I have enough clothes",
+    "I have sufficient clothes"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Ella es la peor estudiante"
+  ],
+  "en": [
+    "She is the worst student"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Tengo mis propios gatos"
+  ],
+  "en": [
+    "I have my own cats"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Es imposible"
+  ],
+  "en": [
+    "It is impossible"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "No es simple"
+  ],
+  "en": [
+    "It is not simple"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "No es simple"
+  ],
+  "en": [
+    "It is not simple"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "No quiero tanta carne"
+  ],
+  "en": [
+    "I do not want so much meat"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "No es agua clara"
+  ],
+  "en": [
+    "It is not clear water"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Es una cena familiar"
+  ],
+  "en": [
+    "It is a family dinner"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Yo soy normal"
+  ],
+  "en": [
+    "I am normal"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Los niños no son responsables"
+  ],
+  "en": [
+    "The kids are not responsible",
+    "The children are not responsible",
+    "The boys are not responsible"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "La comida es mala"
+  ],
+  "en": [
+    "The food is bad"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Tenemos tantos colores"
+  ],
+  "en": [
+    "We have so many colors"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Porque soy un hombre malo"
+  ],
+  "en": [
+    "Because I am a bad man"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Yo soy pobre",
+    "Soy pobre"
+  ],
+  "en": [
+    "I am poor"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Yo soy pobre",
+    "Soy pobre"
+  ],
+  "en": [
+    "I am poor"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "No, no es justo"
+  ],
+  "en": [
+    "No it is not fair",
+    "No it is not right",
+    "No it is not just"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "¿Ellos son ricos?"
+  ],
+  "en": [
+    "They are rich?",
+    "Are they rich?"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Somos las próximas"
+  ],
+  "en": [
+    "We are next",
+    "We are the next ones"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Es una semana histórica"
+  ],
+  "en": [
+    "It is a historic week",
+    "It is a historical week"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "El té es natural"
+  ],
+  "en": [
+    "The tea is natural"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Los diarios son recientes"
+  ],
+  "en": [
+    "The newspapers are recent"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "La próxima hora"
+  ],
+  "en": [
+    "The next hour"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Eres rico"
+  ],
+  "en": [
+    "You are rich",
+    "You are wealth"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Nuestro próximo maestro es un hombre."
+  ],
+  "en": [
+    "Our next teacher is a man"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Los colores no son naturales"
+  ],
+  "en": [
+    "The colors are not natural"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Es un minuto histórico"
+  ],
+  "en": [
+    "It is a historical minute",
+    "It is a historic minute"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Sí pero es reciente"
+  ],
+  "en": [
+    "Yes but it is recent"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Tus padres son ricos"
+  ],
+  "en": [
+    "Your fathers are rich",
+    "Your parents are rich"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Hoy es un día histórico"
+  ],
+  "en": [
+    "Today is a historic day"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "La lámpara es cara"
+  ],
+  "en": [
+    "The lamp is expensive"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Los perros son animales inteligentes"
+  ],
+  "en": [
+    "The dogs are smart animals",
+    "Dogs are smart animals"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Él y yo caminamos juntos"
+  ],
+  "en": [
+    "He and i walk together"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "La noche pasada"
+  ],
+  "en": [
+    "Last night",
+    "The last night"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Él habla rápido"
+  ],
+  "en": [
+    "He talks fast",
+    "He speaks quickly"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "La falda es barata"
+  ],
+  "en": [
+    "The skirt is cheap"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Es tradicional"
+  ],
+  "en": [
+    "It is traditional"
+  ],
+  "difficulty": 5
+},
+{
+    "es": [
+    "Él lleva un sombrero"
+  ],
+  "en": [
+    "He wears a hat"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Los perros juegan."
+  ],
+  "en": [
+    "The dogs play"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Nosotras encontramos comida"
+  ],
+  "en": [
+    "We found food"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Yo sé"
+  ],
+  "en": [
+    "I know"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "No, él sigue"
+  ],
+  "en": [
+    "No he follows"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Las niñas estudian juntas"
+  ],
+  "en": [
+    "The girls study together"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Tú llevas un vestido"
+  ],
+  "en": [
+    "You wear a dress"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Usted sabe quién soy"
+  ],
+  "en": [
+    "You know who I am"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "El niño juega solo"
+  ],
+  "en": [
+    "The kid plays alone",
+    "The boy plays alone"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Hablamos porque sabemos"
+  ],
+  "en": [
+    "We speak because we know",
+    "We talk because we know"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Las mujeres locales llevan vestidos negros"
+  ],
+  "en": [
+    "The local women wear black dresses"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Los doctores no saben por qué"
+  ],
+  "en": [
+    "The doctors do not know why"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Yo juego con Luis"
+  ],
+  "en": [
+    "I play with Lewis"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Yo miro por la ventana"
+  ],
+  "en": [
+    "I look from the window",
+    "I look through the window"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "La mujer prueba el arroz"
+  ],
+  "en": [
+    "The woman tests the rice",
+    "The woman tries the rice"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Él ayuda al maestro"
+  ],
+  "en": [
+    "He helps the teacher"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Él muestra sus cartas"
+  ],
+  "en": [
+    "He shows his letters",
+    "He shows his cards"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "¿Por qué no vienes con nosotros?"
+  ],
+  "en": [
+    "Why don't you come with us",
+    "Why do not you come with us?"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "El cocinero pesa la carne."
+  ],
+  "en": [
+    "The cook weighs the meat"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Mi tía está sola"
+  ],
+  "en": [
+    "My aunt is alone"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Ella recuerda tu camisa."
+  ],
+  "en": [
+    "She remembers you shirt"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Ella busca comida"
+  ],
+  "en": [
+    "She looks for food"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Ella cierra la puerta"
+  ],
+  "en": [
+    "She closes the door"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Él aparece en la noche"
+  ],
+  "en": [
+    "He appears in the night",
+    "He appears at night"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Él vuelve"
+  ],
+  "en": [
+    "He returns"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Ella toma mi azúcar"
+  ],
+  "en": [
+    "She takes my sugar"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Pienso en ustedes"
+  ],
+  "en": [
+    "I think of you"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Él visita la familia de ella"
+  ],
+  "en": [
+    "He visits her family"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Ella acepta"
+  ],
+  "en": [
+    "She accepts"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Yo respeto a mi padre."
+  ],
+  "en": [
+    "I respect my father",
+    "I respect my dad"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Los zapatos no caben"
+  ],
+  "en": [
+    "The shoes do not fit",
+    "The shoes don't fit"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Ella comienza mañana"
+  ],
+  "en": [
+    "She starts tomorrow",
+    "She begins tomorrow"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "El teléfono no sirve"
+  ],
+  "en": [
+    "The telephone doesn't work",
+    "The telephone does not work",
+    "The phone doesn't work",
+    "The phone does not work"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Nosotros conocemos a nuestra madre"
+  ],
+  "en": [
+    "We know our mother",
+    "We know our mom"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Él cuenta los emparedados"
+  ],
+  "en": [
+    "He counts the sandwiches"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Septiembre acaba"
+  ],
+  "en": [
+    "September ends"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Sí, parece familiar"
+  ],
+  "en": [
+    "Yes it seems familiar"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Usted entrega la comida"
+  ],
+  "en": [
+    "You deliver the food"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "La policía culpa al actor"
+  ],
+  "en": [
+    "The police blame the actor"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Mamá, entra, por favor"
+  ],
+  "en": [
+    "Mom please come in"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Mamá, entra, por favor"
+  ],
+  "en": [
+    "Mom please come in",
+    "Mom come in please"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Ellos no important"
+  ],
+  "en": [
+    "They are not important",
+    "They don't matter",
+    "They do not matter"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Él incluye a su madre"
+  ],
+  "en": [
+    "He includes your mother",
+    "He includes your mom",
+    "He includes his mother",
+    "He includes his mom",
+    "He includes her mother",
+    "He includes her mom"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "No, el color no importa"
+  ],
+  "en": [
+    "No the color doesn't matter",
+    "No the color does not matter",
+    "No the color isn't important",
+    "No the color is not important"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Yo entrego comida"
+  ],
+  "en": [
+    "I deliver food"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Él entra solo"
+  ],
+  "en": [
+    "He goes in alone",
+    "He enters alone",
+    "He goes in by himself",
+    "He enters by himself"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "La madre culpa al hijo"
+  ],
+  "en": [
+    "The mom blames the son",
+    "The mother blames the son"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "La madre culpa al hijo"
+  ],
+  "en": [
+    "The mom blames the son",
+    "The mother blames the son"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Él abre la puerta"
+  ],
+  "en": [
+    "He opens the door"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Nosotros llegamos mañana"
+  ],
+  "en": [
+    "We arrive tomorrow"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Él requiere más comida"
+  ],
+  "en": [
+    "He requires more food",
+    "He needs more food"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "El niño dice hola"
+  ],
+  "en": [
+    "The boy says hello",
+    "The boy says hi"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Ellos abren los libros"
+  ],
+  "en": [
+    "They open the books"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Mi marido llega tarde"
+  ],
+  "en": [
+    "My husband arrives late"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Esta fruta no es roja"
+  ],
+  "en": [
+    "This fruit is not red"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Aquellas niñas"
+  ],
+  "en": [
+    "Those girls",
+    "Those girls over there"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Cada oso come pescado"
+  ],
+  "en": [
+    "Every bear eats fish"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Unos niños beben agua"
+  ],
+  "en": [
+    "Some boys drink water",
+    "Some children drink water",
+    "Some kids drink water"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Estas cartas son personales"
+  ],
+  "en": [
+    "These letters are personal"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "¿Quién es aquel hombre?"
+  ],
+  "en": [
+    "Who is that man?"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Aquellos hombres son mis hermanos."
+  ],
+  "en": [
+    "Those men over there are my brothers",
+    "Those men are my brothers"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Antonio quiere una fresa"
+  ],
+  "en": [
+    "Antonio wants a strawberry"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Ésta es mi hija"
+  ],
+  "en": [
+    "This is my daughter"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Mi hija tiene muchos zapatos"
+  ],
+  "en": [
+    "My daughter has many shoes",
+    "My daughter has lots of shoes"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Ella tiene algunos libros"
+  ],
+  "en": [
+    "She has some books"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Tengo pocos libros"
+  ],
+  "en": [
+    "I have a few books"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Quiero ambas faldas"
+  ],
+  "en": [
+    "I want both skirts",
+    "I want both of the skirts"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Toda la comida"
+  ],
+  "en": [
+    "All the food",
+    "All of the food"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Tengo unos cuantos gatos"
+  ],
+  "en": [
+    "I have a few cats"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "¿Tiene otro baño?"
+  ],
+  "en": [
+    "Do you have another bathroom"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "En cualquier momento"
+  ],
+  "en": [
+    "At any moment",
+    "At any time"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "¿Qué hora es?"
+  ],
+  "en": [
+    "What hour is it",
+    "What time is it"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "No tengo ningún gato"
+  ],
+  "en": [
+    "I don't have any cat",
+    "I don't have a cat",
+    "I do not have any cat",
+    "I do not have a cat"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "Ella no recuerda quién yo soy"
+  ],
+  "en": [
+    "She does not remember who I am"
+  ],
+  "difficulty": 6
+},
+{
+    "es": [
+    "El zapato"
+  ],
+  "en": [
+    "The shoe"
+  ],
+  "difficulty": 3
+},
+{
+    "es": [
+    "El pantalón es azul"
+  ],
+  "en": [
+    "The pants are blue"
+  ],
+  "difficulty": 3
+},
+{
+    "es": [
+    "Mis camisas"
+  ],
+  "en": [
+    "My shirts"
+  ],
+  "difficulty": 3
+},
+{
+    "es": [
+    "Mis zapatos son amarillos"
+  ],
+  "en": [
+    "My shoes are yellow"
+  ],
+  "difficulty": 3
+},
+{
+    "es": [
+    "Necesito una camisa blanca"
+  ],
+  "en": [
+    "I need a white shirt"
+  ],
+  "difficulty": 3
+},
+{
+    "es": [
+    "Las faldas son negras"
+  ],
+  "en": [
+    "The skirts are black"
+  ],
+  "difficulty": 3
+},
+{
+    "es": [
+    "Mis botas"
+  ],
+  "en": [
+    "My boots"
+  ],
+  "difficulty": 3
+},
+{
+    "es": [
+    "Sí, su camisa es blanca"
+  ],
+  "en": [
+    "Yes, your shirt is white"
+  ],
+  "difficulty": 3
+},
+{
+    "es": [
+    "Las botas no son verdes"
+  ],
+  "en": [
+    "The boots are not green"
+  ],
+  "difficulty": 3
+},
+{
+    "es": [
+    "Los zapatos son azules"
+  ],
+  "en": [
+    "The shoes are blue"
+  ],
+  "difficulty": 3
+},
+{
+    "es": [
+    "Sin aceite"
+  ],
+  "en": [
+    "Without oil"
+  ],
+  "difficulty": 3
+},
+{
+    "es": [
+    "El vestido es rojo"
+  ],
+  "en": [
+    "The dress is red"
+  ],
+  "difficulty": 3
+},
+{
+    "es": [
+    "El perro negro bebe agua"
+  ],
+  "en": [
+    "The black dog drinks water"
+  ],
+  "difficulty": 3
+},
+{
+    "es": [
+    "El pescado es grande"
+  ],
+  "en": [
+    "The fish is big",
+    "The fish is large"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Mi vestido corto es azul y blanco"
+  ],
+  "en": [
+    "My short dress is blue and white"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Las manzanas son pequeñas"
+  ],
+  "en": [
+    "The apples are small"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Los hombres son bajos"
+  ],
+  "en": [
+    "The men are short"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Mis pantalones son largos"
+  ],
+  "en": [
+    "My pants are long",
+    "My pants are large"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Necesito un gran emparedado"
+  ],
+  "en": [
+    "I need a big sandwich"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Soy alto"
+  ],
+  "en": [
+    "I am tall"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "La naranja es enorme"
+  ],
+  "en": [
+    "The orange is huge"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "La mujer es baja"
+  ],
+  "en": [
+    "The woman is short"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Mis zapatos son enormes"
+  ],
+  "en": [
+    "My shoes are huge"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "El libro no es grande"
+  ],
+  "en": [
+    "The book is not large",
+    "The book is not big"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Mi tamaño es pequeño"
+  ],
+  "en": [
+    "My size is small"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Tú eres un hombre",
+    "Usted es un hombre"
+  ],
+  "en": [
+    "You are a man"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Tú eres un hombre",
+    "Usted es un hombre"
+  ],
+  "en": [
+    "You are a man"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Sí tengo un perro pequeño"
+  ],
+  "en": [
+    "Yes I have a small dog",
+    "Yes I have a little dog"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Quiero un gran elefante"
+  ],
+  "en": [
+    "I want a big elephant"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Una piscina"
+  ],
+  "en": [
+    "A pool"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "El hombre come en la mesa"
+  ],
+  "en": [
+    "The man eats at the table"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "La silla es pequeña"
+  ],
+  "en": [
+    "The chair is small",
+    "The chair is little",
+    "The seat is small",
+    "The seat is little"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "¿Cuántos vasos?"
+  ],
+  "en": [
+    "How many glasses",
+    "How many cups"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Tengo dinero en mi escritorio"
+  ],
+  "en": [
+    "I have money in my desk"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "In the kitchen"
+  ],
+  "en": [
+    "En la cocina"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "El bebé duerme en la cuna"
+  ],
+  "en": [
+    "The baby sleeps in the crib",
+    "The baby sleeps in the cradle"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Mi mamá cocina para mi papá"
+  ],
+  "en": [
+    "My mom cooks for my dad",
+    "My mother cooks for my dad",
+    "My mother cooks for my father",
+    "My mom cooks with for father"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Los padres tienen una cuna."
+  ],
+  "en": [
+    "The parents have a crib",
+    "The parents have a cradle",
+    "The fathers have a crib",
+    "The fathers have a cradle",
+    "The dads have a crib",
+    "The dads have a cradle"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "El bebé duerme en la cuna"
+  ],
+  "en": [
+    "The baby sleeps in the crib",
+    "The baby sleeps in the cradle"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Es un teléfono"
+  ],
+  "en": [
+    "It is a phone",
+    "It is a telephone"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "La cama no es mía"
+  ],
+  "en": [
+    "The bed is not mine"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "La mesa y los platos."
+  ],
+  "en": [
+    "The table and the plates"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "La piscina no tiene agua"
+  ],
+  "en": [
+    "The pool doesn't have water",
+    "The pool does not have water",
+    "The pool has no water"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Él tiene un teléfono rojo"
+  ],
+  "en": [
+    "He has a red phone",
+    "He has a red telephone"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Los niños comen en la mesa"
+  ],
+  "en": [
+    "The kids eat at the table",
+    "The boys eat at the table"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Nuestra cocina es pequeña"
+  ],
+  "en": [
+    "Our kitchen is small",
+    "Our kitchen is little"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Es febrero"
+  ],
+  "en": [
+    "It is February"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "En un momento"
+  ],
+  "en": [
+    "In a moment",
+    "Just a second"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Semanas y meses"
+  ],
+  "en": [
+    "Weeks and months"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Hoy es miércoles"
+  ],
+  "en": [
+    "Today is Wednesday"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Yo a veces cocino la cena"
+  ],
+  "en": [
+    "Sometimes I cook the dinner"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "No como pescado en agosto"
+  ],
+  "en": [
+    "I don't eat fish in August",
+    "I do not eat fish in August"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Agosto y septiembre son meses del año"
+  ],
+  "en": [
+    "August and September are months of the year"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Él come carne en julio"
+  ],
+  "en": [
+    "He eats meat in July"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Mañana es miércoles"
+  ],
+  "en": [
+    "Tomorrow is Wednesday"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "La puerta"
+  ],
+  "en": [
+    "The door"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Veo una lámpara roja"
+  ],
+  "en": [
+    "I see a red lamp"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Las tazas no son pequeñas"
+  ],
+  "en": [
+    "The cups are not small",
+    "The glasses are not small",
+    "The cups are not little",
+    "The glasses are not little",
+    "The cups are not short",
+    "The glasses are not short"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "La esponja"
+  ],
+  "en": [
+    "The sponge"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "La cuchara no es grande"
+  ],
+  "en": [
+    "The spoon is not large",
+    "The spoon is not big"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "El espejo"
+  ],
+  "en": [
+    "The mirror"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "La puerta es blanca y la ventana es roja"
+  ],
+  "en": [
+    "The door is white and the window is red"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "¿Quién quiere una taza?"
+  ],
+  "en": [
+    "Who wants a cup"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Nuestro sofá es amarillo"
+  ],
+  "en": [
+    "Our couch is yellow",
+    "Our sofa is yellow"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "¿Ustedes tienen una televisión?"
+  ],
+  "en": [
+    "Do you have a television",
+    "Do you have a TV"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Nosotros tenemos un espejo"
+  ],
+  "en": [
+    "We have a mirror"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "La lámpara es mía."
+  ],
+  "en": [
+    "The lamp is mine"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "¿Tienes tazas?"
+  ],
+  "en": [
+    "Do you have cups"
+  ],
+  "difficulty": 4
+},
+{
+    "es": [
+    "Esa mujer es muy bonita, pero es muy joven para él"
+  ],
+  "en": [
+    "That woman is very beautiful, but is very young for him",
+    "That woman is very beautiful, but is too young for him",
+    "That woman is very pretty, but is very young for him",
+    "That woman is very pretty, but is too young for him"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "¡Estoy bien!"
+  ],
+  "en": [
+    "I am good",
+    "I am fine"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Él come mucho"
+  ],
+  "en": [
+    "He eats a lot"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Come menos pan"
+  ],
+  "en": [
+    "Eat less bread"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Ellos son tan fuertes como nosotros"
+  ],
+  "en": [
+    "They are as strong as us"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Quiero una ventana"
+  ],
+  "en": [
+    "I want a window"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Este vestido es muy simple"
+  ],
+  "en": [
+    "This dress is very simple"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Así no"
+  ],
+  "en": [
+    "Not like that"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Él no es tan alto"
+  ],
+  "en": [
+    "He is not that tall"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "¿Está Julia aquí?"
+  ],
+  "en": [
+    "Is julia here?"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Él es sólo un niño"
+  ],
+  "en": [
+    "He is just a boy",
+    "He is just a kid",
+    "He is just a child"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Mi tío nunca escribe cartas"
+  ],
+  "en": [
+    "My uncle never writes letters"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Yo también"
+  ],
+  "en": [
+    "Me too"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Tú siempre pagas"
+  ],
+  "en": [
+    "You always pay"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Casi"
+  ],
+  "en": [
+    "Almost"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Los zapatos ya están viejos."
+  ],
+  "en": [
+    "The shoes are already old",
+    "The shoes are old already"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Ellos no tienen tanto"
+  ],
+  "en": [
+    "They do not have so much",
+    "They don't have so much"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "¿Y entonces?"
+  ],
+  "en": [
+    "And then"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Nosotros leemos el libro ahora"
+  ],
+  "en": [
+    "We read the book now"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "El poeta camina despacio"
+  ],
+  "en": [
+    "The poet walks slowly"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Él sabe donde está"
+  ],
+  "en": [
+    "He knows where it is"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Antes y después"
+  ],
+  "en": [
+    "Before and after"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "¡Además el caballo es mío!"
+  ],
+  "en": [
+    "Besides the horse is mine"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Hasta pronto"
+  ],
+  "en": [
+    "See you soon"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Tú aún puedes"
+  ],
+  "en": [
+    "You still can"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Ella está allí"
+  ],
+  "en": [
+    "She is there"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Gracias y hasta luego"
+  ],
+  "en": [
+    "Thanks and see you later"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "¡Mi cuchara es demasiado grande!"
+  ],
+  "en": [
+    "My spoon is too big"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Mi hija es todavía una niña."
+  ],
+  "en": [
+    "My daughter is still a girl",
+    "My daughter is still a child",
+    "My daughter is still a kid"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Ellos duermen allí"
+  ],
+  "en": [
+    "They sleep there"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Él aún está en cama"
+  ],
+  "en": [
+    "He still is in bed",
+    "He is still in bed"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Buen día, y hasta pronto"
+  ],
+  "en": [
+    "Good day and see you soon",
+    "Have a good day and see you soon"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Ella es aún más bonita"
+  ],
+  "en": [
+    "She is even more beautiful"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Muy lejos"
+  ],
+  "en": [
+    "Very far"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Finalmente es viernes."
+  ],
+  "en": [
+    "Finally it is Friday"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "¡Por supuesto!"
+  ],
+  "en": [
+    "Of course"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "En general como carne"
+  ],
+  "en": [
+    "I generally eat meat",
+    "In general I eat meat"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "¿Duermes bastante?"
+  ],
+  "en": [
+    "Do you sleep a lot"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Ustedes escriben especialmente para nosotras"
+  ],
+  "en": [
+    "You write especially for us"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Quizá es jugo"
+  ],
+  "en": [
+    "Perhaps it is juice"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Ella mira alrededor"
+  ],
+  "en": [
+    "She looks around"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Es totalmente blanca"
+  ],
+  "en": [
+    "It is totally white",
+    "It is completely white"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Tengo solamente un hermano"
+  ],
+  "en": [
+    "I only have a brother",
+    "I only have one brother"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Él habla realmente bien"
+  ],
+  "en": [
+    "He talks really well",
+    "He speaks really well"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Mi hermano jamás bebe"
+  ],
+  "en": [
+    "My brother never drinks"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Eres simplemente bonita"
+  ],
+  "en": [
+    "You are simply beautiful"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Es totalmente imposible."
+  ],
+  "en": [
+    "It is completely impossible",
+    "It is totally impossible"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Él jamás corre"
+  ],
+  "en": [
+    "He never runs"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Es solamente un segundo"
+  ],
+  "en": [
+    "It is only a second"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Es totalmente normal"
+  ],
+  "en": [
+    "It is completely normal",
+    "It is totally normal"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Es simplemente demasiado"
+  ],
+  "en": [
+    "It is simply too much"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Este libro es realmente viejo"
+  ],
+  "en": [
+    "This book is really old"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Ellos no son hombres tradicionales"
+  ],
+  "en": [
+    "They are not traditional men"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Es prácticamente imposible"
+  ],
+  "en": [
+    "It is practically impossible"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Nosotros pagamos inmediatamente"
+  ],
+  "en": [
+    "We pay immediately"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Él probablemente llega hoy"
+  ],
+  "en": [
+    "He probably arrives today"
+  ],
+  "difficulty": 7
+},
+{
+    "es": [
+    "Quizás porque no veo bien"
+  ],
+  "en": [
+    "He probably arrives today"
+  ],
+  "difficulty": 7
+}]

@@ -1,0 +1,43 @@
+[
+  {
+    "title": "1",
+    "position": 1,
+    "pointValue": 1,
+    "pointsRequired": 0
+  },
+  {
+    "title": "2",
+    "position": 2,
+    "pointsRequired": 15
+  },
+  {
+    "title": "3",
+    "position": 3,
+    "pointsRequired": 20
+  },
+  {
+    "title": "4",
+    "position": 4,
+    "pointsRequired": 36
+  },
+  {
+    "title": "5",
+    "position": 5,
+    "pointsRequired": 50
+  },
+  {
+    "title": "6",
+    "position": 6,
+    "pointsRequired": 66
+  },
+  {
+    "title": "7",
+    "position": 7,
+    "pointsRequired": 88
+  },
+  {
+    "title": "8",
+    "position": 8,
+    "pointsRequired": 10000
+  }
+]
